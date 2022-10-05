@@ -1,0 +1,12 @@
+4 100
+testPlayerName0 19
+testPlayerName1 27
+testPlayerName2 36
+testPlayerName3 14
+6 150
+testPlayerName4 79
+testPlayerName5 92
+testPlayerName6 83
+testPlayerName7 40
+testPlayerName8 15
+testPlayerName9 1
