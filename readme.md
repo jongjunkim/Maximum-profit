@@ -2,7 +2,7 @@
 
 * ## C++
 
-* ## This project is to find the Maximum-profit with given numbers.
+* ### This project is to find the Maximum-profit with given numbers.
 
 * ### To execute File 
    1)make all
